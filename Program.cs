@@ -1,4 +1,7 @@
-﻿using System;
+// Product Inventory Project
+// By lawrenceav
+
+using System;
 
 namespace main
 {
